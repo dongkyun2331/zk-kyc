@@ -1,0 +1,10 @@
+{
+  "program": "zkkyc_fori.aleo",
+  "version": "0.0.0",
+  "description": "",
+  "development": {
+    "private_key": "APrivateKey1zkpJU63V7EERbbnZ9PT9gQ1FKxxAnN8rS9sKogp48uQnbTc",
+    "address": "aleo1r2d5tlvx2tzuz62pk9lj9l88pgc86n3hygmz55n0vz4jgpfqmuzshqhhws"
+  },
+  "license": "MIT"
+}
